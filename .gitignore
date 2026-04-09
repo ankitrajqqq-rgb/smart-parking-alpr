@@ -1,0 +1,12 @@
+venv/
+venv310/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+parking.db
+*.db
+
+*.pt
+.env
